@@ -1,0 +1,11 @@
+C:\Users\abdul\source\repos\Simple Calculator (1)\bin\Debug\Simple Calculator (1).exe.config
+C:\Users\abdul\source\repos\Simple Calculator (1)\bin\Debug\Simple Calculator (1).exe
+C:\Users\abdul\source\repos\Simple Calculator (1)\bin\Debug\Simple Calculator (1).pdb
+C:\Users\abdul\source\repos\Simple Calculator (1)\obj\Debug\Simple Calculator (1).csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\Simple Calculator (1)\obj\Debug\Simple Calculator (1).csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\source\repos\Simple Calculator (1)\obj\Debug\Simple_Calculator__1_.frmCalculator.resources
+C:\Users\abdul\source\repos\Simple Calculator (1)\obj\Debug\Simple_Calculator__1_.Properties.Resources.resources
+C:\Users\abdul\source\repos\Simple Calculator (1)\obj\Debug\Simple Calculator (1).csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\Simple Calculator (1)\obj\Debug\Simple Calculator (1).csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Simple Calculator (1)\obj\Debug\Simple Calculator (1).exe
+C:\Users\abdul\source\repos\Simple Calculator (1)\obj\Debug\Simple Calculator (1).pdb
