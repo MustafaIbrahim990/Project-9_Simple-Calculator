@@ -1,5 +1,3 @@
-"# Project-9 _ Simple-Calculator" 
-
 # 🧮 Project-9: Simple Calculator
 
 ## 👤 Author: Mustafa A. Ibrahim
